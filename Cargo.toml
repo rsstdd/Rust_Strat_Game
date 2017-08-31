@@ -1,0 +1,6 @@
+[package]
+name = "strat-game"
+version = "0.1.0"
+authors = ["rsstdd <rosstod@gmail.com>"]
+
+[dependencies]
