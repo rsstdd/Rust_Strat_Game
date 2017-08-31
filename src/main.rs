@@ -63,7 +63,7 @@ impl Grid {
         for _ in 0..number_of_squares { // compute # of squares in grid
             squares.push(Square{ground: TerrainGround::Soil, block: None, beings: None});
         }
-        
+
         /* Return the Grid */
         Grid {
             size: (size_x, size_y),
